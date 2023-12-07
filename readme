@@ -1,0 +1,18 @@
+# TITLE
+Tic-Tac-Toe
+
+# DESCRIPTION
+Tic-Tac-Toe Game with AI Player using HTML, CSS and JS OOP
+
+# FEATURES
+- Turn display bar
+- Restart button
+- Customizable player name
+- Supports Human vs. Human
+- Supports Human vs. AI
+
+# UPCOMING FEATURES
+- Tracking players
+- Recording scores of each player
+- Timing feature.
+- Upgraded UI designs
